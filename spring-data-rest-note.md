@@ -1,3 +1,4 @@
+## Spring Data REST - Useful notes
 ### Source/Author: https://gist.github.com/TomyJaya/31e48d81af0ca236496582d00192ef80
 # How To change baseUri: 
 in `application.properties` add: 
